@@ -152,7 +152,7 @@ Onde:
 
 Projeto desenvolvido para a disciplina de **Estruturas de Dados II (ED2)**.
 
-**Alunos:** Samuel Braga Marques, Gabriel Barony
+**Alunos:** Samuel Braga Marques, Gabriel Barony, Thayllon Bragança, Thiago Zanete, Marco Antônio Silva
 
 ---
 
